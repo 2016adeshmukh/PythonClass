@@ -1,0 +1,3 @@
+matrix=[[0 for x in xrange(27)] for x in xrange (27)]
+matrix[14][2]="yes"
+print matrix
